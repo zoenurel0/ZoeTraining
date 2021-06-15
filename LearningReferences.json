@@ -1,0 +1,431 @@
+{
+    "TrainingReferences": [
+        {
+            "title": "What is Software Load Balancer (SLB) for SDN?",
+            "link": "https://docs.microsoft.com/en-us/azure-stack/hci/concepts/software-load-balancer",
+            "time": "30",
+            "tags": [
+                "SDN",
+                "SLB"
+            ],
+            "rating": ,
+            "isArchived": false
+        },
+        {
+            "title": "EAP Townhall - New features for 2021",
+            "link": "https://microsoft.sharepoint.com/:v:/r/teams/AzureStackHCIPreviewCommunity/Shared%20Documents/General/EAP%20Townhall%20-%20New%20features%20for%202021.mp4?csf=1&web=1&e=I9Gcfn",
+            "time": "",
+            "tags": [
+                "SDN"
+            ],
+            "rating": ,
+            "isArchived": false
+        },
+        {
+            "title": "May Townhall - Software Defined Networking",
+            "link": "https://microsoft.sharepoint.com/:v:/r/teams/AzureStackHCIPreviewCommunity/Shared%20Documents/General/May%20Town%20hall%20-Software%20Defined%20Networking%20.mp4?csf=1&web=1&e=F03mqQ",
+            "time": "",
+            "tags": [
+                "SDN"
+            ],
+            "rating": ,
+            "isArchived": false
+        },
+        {
+            "title": "Configure the Software Load Balancer for Load Balancing and Network Address Translation (NAT)",
+            "link": "https://docs.microsoft.com/en-us/windows-server/networking/sdn/manage/configure-slb-and-nat#example-use-slb-for-outbound-nat",
+            "time": "",
+            "tags": [
+                "SDN",
+                "NAT"
+            ],
+            "rating": ,
+            "isArchived": false
+        },
+        {
+            "title": "What's new in Windows Admin Center 2103",
+            "link": "https://www.youtube.com/watch?v=004gio5wDxM",
+            "time": "",
+            "tags": [
+                "WAC"
+            ],
+            "rating": ,
+            "isArchived": true
+        },
+        {
+            "title": "Understanding Spine and Leaf Fabric CCNA Data Center",
+            "link": "https://www.youtube.com/watch?v=9DAPNvGYF70&t=35s",
+            "time": "",
+            "tags": [
+                "Networking",
+                "SpineLeaf"
+            ],
+            "rating": ,
+            "isArchived": false
+        },
+        {
+            "title": "Spine Leaf Data Center architecture and design compared to traditional design",
+            "link": "https://www.youtube.com/watch?v=hIOZB_VYNJs&t=8s",
+            "time": "",
+            "tags": [
+                "Networking",
+                "SpineLeaf"
+            ],
+            "rating": ,
+            "isArchived": false
+        },
+        {
+            "title": "VXLAN BGP EVPN- L3VNI (Episode 2)",
+            "link": "https://www.youtube.com/watch?v=pu21qr3b1GA&t=7s",
+            "time": "",
+            "tags": [
+                "Networking",
+                "VXLAN"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VXLAN: Anycast-RP Theory",
+            "link": "https://www.youtube.com/watch?v=6u1QXXhr1m0&t=91s",
+            "time": "",
+            "tags": [
+                "Networking",
+                "VXLAN"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "25 Anycast Gateways Implement an SD Access Fabric with Cisco DNA Center",
+            "link": "https://www.youtube.com/watch?v=VSZJI5aopF8",
+            "time": "",
+            "tags": [
+                "Networking"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VXLAN | Part 6 - BGP EVPN Configuration on Nexus 9000",
+            "link": "https://www.youtube.com/watch?v=D9k9_hRdrGc&t=624s",
+            "time": "",
+            "tags": [
+                "EVPN",
+                "VXLAN",
+                "BGP"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VxLAN | Part 5 - Bridging Configuration0",
+            "link": "https://www.youtube.com/watch?v=PbklbQCmsbc",
+            "time": "",
+            "tags": [
+                "OSPF",
+                "VXLAN"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VxLAN | Part 4 - Address Learning",
+            "link": "https://www.youtube.com/watch?v=Do6G9w_DjJ4",
+            "time": "",
+            "tags": [
+                "EVPN",
+                "VXLAN"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VxLAN | Part 3 - Spine Leaf Topology",
+            "link": "https://www.youtube.com/watch?v=x1F-RCW9fqo",
+            "time": "",
+            "tags": [
+                "VXLAN"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VxLAN | Part 2 - Header Format and Encapsulation",
+            "link": "https://www.youtube.com/watch?v=jjr8aIIRkYc",
+            "time": "",
+            "tags": [
+                "VXLAN"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VxLAN | Part 1 - How VxLAN Works",
+            "link": "https://www.youtube.com/watch?v=YNqKDI_bnPM",
+            "time": "",
+            "tags": [
+                "VXLAN"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "VXLAN",
+            "link": "https://www.youtube.com/watch?v=dpbXjRx3hB8&t=86s",
+            "time": "",
+            "tags": [
+                "VXLAN"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Cisco EVPN Part 4 (Anycast GW and L3 Overlay) 10Min",
+            "link": "https://www.youtube.com/watch?v=eXSkuMWJswI",
+            "time": "11",
+            "tags": [
+                "EVPN"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Cisco EVPN Part 3 (VXLAN with MP-BGP) 10Min",
+            "link": "https://www.youtube.com/watch?v=VtL4HUKhOSk",
+            "time": "12",
+            "tags": [
+                "EVPN"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Why you need MLAG?",
+            "link": "https://www.youtube.com/watch?v=xA90YvkZmdM",
+            "time": "5",
+            "tags": [
+                "MLAG"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Cisco EVPN Part 3 (VXLAN with MP-BGP) 10Min",
+            "link": "https://www.youtube.com/watch?v=VtL4HUKhOSk",
+            "time": "15",
+            "tags": [
+                "EVPN"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Cisco EVPN Part 2 (VXLAN with Multicast) 10Min",
+            "link": "https://www.youtube.com/watch?v=aGYTUynyd4M",
+            "time": "15",
+            "tags": [
+                "EVPN"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "How VXLAN Works Example",
+            "link": "https://www.youtube.com/watch?v=7nwlwLJH6yQ",
+            "time": "10",
+            "tags": [
+                "VXLAN"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Cisco EVPN Part1 (Simple VXLAN example) 10Min",
+            "link": "https://www.youtube.com/watch?v=DK7eQrOuUA4",
+            "time": "11",
+            "tags": [
+                "EVPN"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Overview of Azure Arc enabled servers",
+            "link": "https://www.youtube.com/watch?v=2KbILoO3rqc",
+            "time": "20",
+            "tags": [
+                "Azure",
+                "ARC"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Introduction to Incast, Head of Line Blocking, and Congestion Management",
+            "link": "https://www.youtube.com/watch?v=WKAtGUph-hw&t=17s",
+            "time": "61",
+            "tags": [
+                "Azure",
+                "ARC"
+            ],
+            "rating": 4,
+            "isArchived": false
+        },
+        {
+            "title": "An Introduction to Software Defined Networking with Windows Server 2016",
+            "link": "https://www.youtube.com/watch?v=f501zUUcXD0",
+            "time": "12",
+            "tags": [
+                "SDN"
+            ],
+            "rating": 4,
+            "isArchived": true
+        },
+        {
+            "title": "Introducing new Azure API Management capabilities | Azure Friday",
+            "link": "https://www.youtube.com/watch?v=f7CJphbEmk4&t=2s",
+            "time": "18",
+            "tags": [
+                "Azure",
+                "API"
+            ],
+            "rating": 4,
+            "isArchived": false
+        },
+        {
+            "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+            "link": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+            "time": "167",
+            "tags": [
+                "Docker"
+            ],
+            "rating": 5,
+            "isArchived": false
+        },
+        {
+            "title": "Integrated Systems for Azure Stack HCI",
+            "link": "https://www.youtube.com/watch?v=V6W1vixl2tM&t=4s",
+            "time": "28",
+            "tags": [
+                "HCI",
+                "AzureStack"
+            ],
+            "rating": 4,
+            "isArchived": false
+        },
+        {
+            "title": "Azure Stack HCI - Public Preview - Installation and Troubleshooting",
+            "link": "https://www.youtube.com/watch?v=7ONMTDzDNcM&t=281s",
+            "time": "120",
+            "tags": [
+                "HCI",
+                "AzureStack"
+            ],
+            "rating": 4,
+            "isArchived": false
+        },
+        {
+            "title": "Getting Started with Azure Kubernetes Service on Azure Stack HCI",
+            "link": "https://www.youtube.com/watch?v=qLkOAuOo3b4&t=316s",
+            "time": "36",
+            "tags": [
+                "Kubernetes",
+                "AzureStack"
+            ],
+            "rating": 4,
+            "isArchived": false
+        },
+        {
+            "title": "Product tour of the new Azure Stack HCI using Windows Admin Center",
+            "link": "https://www.youtube.com/watch?v=LxK0hljZkjE",
+            "time": "19",
+            "tags": [
+                "HCI",
+                "AzureStack"
+            ],
+            "rating": 3,
+            "isArchived": false
+        },
+        {
+            "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]",
+            "link": "https://www.youtube.com/watch?v=X48VuDVv0do",
+            "time": "19",
+            "tags": [
+                "Kubernetes"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "consumed": true
+        },
+        {
+            "title": "Tutorial: Communication Is Key - Understanding Kubernetes Networking - Jeff Poole, Vivint Smart Home",
+            "link": "https://www.youtube.com/watch?v=InZVNuKY5GY",
+            "time": "78",
+            "tags": [
+                "Kubernetes",
+                "Networking"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "consumed": true
+        },
+        {
+            "title": "Introduction to fluentbit",
+            "link": "https://www.youtube.com/watch?v=3ELc1helke4&t=513s",
+            "time": "10",
+            "tags": [
+                "Fluentbit"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "consumed": true
+        },
+        {
+            "title": "Fluent Bit explained | Fluent Bit vs Fluentd",
+            "link": "https://www.youtube.com/watch?v=B2IS-XS-cc0",
+            "time": "10",
+            "tags": [
+                "Fluentbit",
+                "FluentD"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "consumed": true
+        },
+        {
+            "title": "Monitor Kubernetes in 10 minutes",
+            "link": "https://www.youtube.com/watch?v=abq-6FBn0fo&t=365s",
+            "time": "14",
+            "tags": [
+                "Kubernetes"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "consumed": true
+        },
+        {
+            "title": "Monitor Kubernetes Cluster using Prometheus and Grafana | Prometheus Deployment using Helm Chart",
+            "link": "https://www.youtube.com/watch?v=-i2K6KBwK3U&t=402s",
+            "time": "13",
+            "tags": [
+                "Kubernetes"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "consumed": true
+        },
+        {
+            "title": "Run mission-critical applications on Kubernetes | DevOps Tool of the Month (3)",
+            "link": "https://www.youtube.com/watch?v=_f8QfKx4rws&t=636s",
+            "time": "21",
+            "tags": [
+                "Kubernetes",
+                "Devops"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "consumed": true
+        }
+    ]
+}
