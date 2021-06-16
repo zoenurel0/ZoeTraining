@@ -9,7 +9,8 @@
                 "SLB"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "EAP Townhall - New features for 2021",
@@ -19,7 +20,8 @@
                 "SDN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "May Townhall - Software Defined Networking",
@@ -29,7 +31,8 @@
                 "SDN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Configure the Software Load Balancer for Load Balancing and Network Address Translation (NAT)",
@@ -40,7 +43,8 @@
                 "NAT"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "What's new in Windows Admin Center 2103",
@@ -50,7 +54,8 @@
                 "WAC"
             ],
             "rating": 3,
-            "isArchived": true
+            "isArchived": true,
+            "complete": true
         },
         {
             "title": "Understanding Spine and Leaf Fabric CCNA Data Center",
@@ -61,7 +66,8 @@
                 "SpineLeaf"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Spine Leaf Data Center architecture and design compared to traditional design",
@@ -72,7 +78,8 @@
                 "SpineLeaf"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VXLAN BGP EVPN- L3VNI (Episode 2)",
@@ -83,7 +90,8 @@
                 "VXLAN"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VXLAN: Anycast-RP Theory",
@@ -94,7 +102,8 @@
                 "VXLAN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "25 Anycast Gateways Implement an SD Access Fabric with Cisco DNA Center",
@@ -104,7 +113,8 @@
                 "Networking"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VXLAN | Part 6 - BGP EVPN Configuration on Nexus 9000",
@@ -116,7 +126,8 @@
                 "BGP"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VxLAN | Part 5 - Bridging Configuration0",
@@ -127,7 +138,8 @@
                 "VXLAN"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VxLAN | Part 4 - Address Learning",
@@ -138,7 +150,8 @@
                 "VXLAN"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VxLAN | Part 3 - Spine Leaf Topology",
@@ -148,7 +161,8 @@
                 "VXLAN"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VxLAN | Part 2 - Header Format and Encapsulation",
@@ -158,7 +172,8 @@
                 "VXLAN"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VxLAN | Part 1 - How VxLAN Works",
@@ -168,7 +183,8 @@
                 "VXLAN"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "VXLAN",
@@ -178,7 +194,8 @@
                 "VXLAN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Cisco EVPN Part 4 (Anycast GW and L3 Overlay) 10Min",
@@ -188,7 +205,8 @@
                 "EVPN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Cisco EVPN Part 3 (VXLAN with MP-BGP) 10Min",
@@ -198,7 +216,8 @@
                 "EVPN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Why you need MLAG?",
@@ -208,7 +227,8 @@
                 "MLAG"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Cisco EVPN Part 3 (VXLAN with MP-BGP) 10Min",
@@ -218,7 +238,8 @@
                 "EVPN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Cisco EVPN Part 2 (VXLAN with Multicast) 10Min",
@@ -228,7 +249,8 @@
                 "EVPN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "How VXLAN Works Example",
@@ -238,7 +260,8 @@
                 "VXLAN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Cisco EVPN Part1 (Simple VXLAN example) 10Min",
@@ -248,7 +271,8 @@
                 "EVPN"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Overview of Azure Arc enabled servers",
@@ -259,7 +283,8 @@
                 "ARC"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Introduction to Incast, Head of Line Blocking, and Congestion Management",
@@ -270,7 +295,8 @@
                 "ARC"
             ],
             "rating": 4,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "An Introduction to Software Defined Networking with Windows Server 2016",
@@ -280,7 +306,8 @@
                 "SDN"
             ],
             "rating": 4,
-            "isArchived": true
+            "isArchived": true,
+            "complete": true
         },
         {
             "title": "Introducing new Azure API Management capabilities | Azure Friday",
@@ -291,7 +318,8 @@
                 "API"
             ],
             "rating": 4,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
@@ -301,7 +329,8 @@
                 "Docker"
             ],
             "rating": 5,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Integrated Systems for Azure Stack HCI",
@@ -312,7 +341,8 @@
                 "AzureStack"
             ],
             "rating": 4,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Azure Stack HCI - Public Preview - Installation and Troubleshooting",
@@ -323,7 +353,8 @@
                 "AzureStack"
             ],
             "rating": 4,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Getting Started with Azure Kubernetes Service on Azure Stack HCI",
@@ -334,7 +365,8 @@
                 "AzureStack"
             ],
             "rating": 4,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Product tour of the new Azure Stack HCI using Windows Admin Center",
@@ -345,7 +377,8 @@
                 "AzureStack"
             ],
             "rating": 3,
-            "isArchived": false
+            "isArchived": false,
+            "complete": true
         },
         {
             "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]",
@@ -356,7 +389,7 @@
             ],
             "rating": 3,
             "isArchived": false,
-            "consumed": true
+            "complete": true
         },
         {
             "title": "Tutorial: Communication Is Key - Understanding Kubernetes Networking - Jeff Poole, Vivint Smart Home",
@@ -368,7 +401,7 @@
             ],
             "rating": 3,
             "isArchived": false,
-            "consumed": true
+            "complete": true
         },
         {
             "title": "Introduction to fluentbit",
@@ -379,7 +412,7 @@
             ],
             "rating": 3,
             "isArchived": false,
-            "consumed": true
+            "complete": true
         },
         {
             "title": "Fluent Bit explained | Fluent Bit vs Fluentd",
@@ -391,7 +424,7 @@
             ],
             "rating": 5,
             "isArchived": false,
-            "consumed": true
+            "complete": true
         },
         {
             "title": "Monitor Kubernetes in 10 minutes",
@@ -402,7 +435,7 @@
             ],
             "rating": 4,
             "isArchived": false,
-            "consumed": true
+            "complete": true
         },
         {
             "title": "Monitor Kubernetes Cluster using Prometheus and Grafana | Prometheus Deployment using Helm Chart",
@@ -413,7 +446,7 @@
             ],
             "rating": 3,
             "isArchived": false,
-            "consumed": true
+            "complete": true
         },
         {
             "title": "Run mission-critical applications on Kubernetes | DevOps Tool of the Month (3)",
@@ -425,7 +458,7 @@
             ],
             "rating": 5,
             "isArchived": false,
-            "consumed": true
+            "complete": true
         }
     ]
 }
