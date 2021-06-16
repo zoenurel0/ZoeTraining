@@ -459,6 +459,42 @@
             "rating": 5,
             "isArchived": false,
             "complete": true
+        },
+        {
+            "title": "Upgrade, backup, and restore SDN infrastructure",
+            "link": "https://docs.microsoft.com/en-us/windows-server/networking/sdn/manage/update-backup-restore",
+            "time": 25,
+            "tags": [
+                "SDN"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Internal DNS Service (iDNS) for SDN",
+            "link": "https://docs.microsoft.com/en-us/windows-server/networking/sdn/technologies/idns-for-sdn",
+            "time": 18,
+            "tags": [
+                "SDN",
+                "iDNS"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "IDNS IN AZURE STACK",
+            "link": "https://azurestack.blog/2016/09/idns-in-azure-stack/",
+            "time": 18,
+            "tags": [
+                "SDN",
+                "iDNS",
+                "AzureStack"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
         }
     ]
 }
