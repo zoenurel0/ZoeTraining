@@ -495,6 +495,109 @@
             "rating": 3,
             "isArchived": false,
             "complete": true
+        },
+        {
+            "title": "Create a VM and connect to a tenant virtual network or VLAN",
+            "link": "https://docs.microsoft.com/en-us/windows-server/networking/sdn/manage/create-a-tenant-vm",
+            "time": 16,
+            "tags": [
+                "SDN",
+                "AzureStack"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "What is Ansible | Ansible Playbook explained | Ansible Tutorial for Beginners",
+            "link": "https://www.youtube.com/watch?v=1id6ERvfozo",
+            "time": 17,
+            "tags": [
+                "Ansible",
+                "Automation"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Kubernetes is dropping Docker support - What does it mean for YOU?",
+            "link": "https://www.youtube.com/watch?v=7KUdmFyefSA",
+            "time": 12,
+            "tags": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "How Prometheus Monitoring works | Prometheus Architecture explained",
+            "link": "https://www.youtube.com/watch?v=h4Sl21AKiDg",
+            "time": 22,
+            "tags": [
+                "Prometheus"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Prometheus Monitoring - Steps to monitor third-party apps using Prometheus Exporter | Part 2",
+            "link": "https://www.youtube.com/watch?v=mLPg49b33sA",
+            "time": 23,
+            "tags": [
+                "Prometheus"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator | Part 1",
+            "link": "https://www.youtube.com/watch?v=QoDqxm7ybLc",
+            "time": 26,
+            "tags": [
+                "Prometheus"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Kubernetes Operator simply explained in 10 mins",
+            "link": "https://www.youtube.com/watch?v=ha3LjlD6g7g",
+            "time": 10,
+            "tags": [
+                "Kubernetes"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Yaml Tutorial | Learn YAML in 18 mins",
+            "link": "https://www.youtube.com/watch?v=1uFVr15xDGg",
+            "time": 18,
+            "tags": [
+                "YAML"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "What is Helm in Kubernetes? Helm and Helm Charts explained | Kubernetes Tutorial 23",
+            "link": "https://www.youtube.com/watch?v=-ykwb1d0DXUps://www.youtube.com/watch?v=1uFVr15xDGg",
+            "time": 15,
+            "tags": [
+                "Kubernetes",
+                "Helm"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
         }
     ]
 }
