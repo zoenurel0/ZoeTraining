@@ -609,6 +609,18 @@
             "rating": 4,
             "isArchived": false,
             "complete": true
+        },
+        {
+            "title": "Let's Encrypt Explained: Free SSL",
+            "link": "https://www.youtube.com/watch?v=jrR_WfgmWEw",
+            "time": 20,
+            "tags": [
+                "SSL",
+                "Certificate"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": false
         }
     ]
 }
