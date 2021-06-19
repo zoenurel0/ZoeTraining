@@ -598,6 +598,17 @@
             "rating": 5,
             "isArchived": false,
             "complete": true
+        },
+        {
+            "title": "Free SSL for Kubernetes with Cert-Manager",
+            "link": "https://www.youtube.com/watch?v=hoLUigg4V18",
+            "time": 20,
+            "tags": [
+                "SSL"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
         }
     ]
 }
