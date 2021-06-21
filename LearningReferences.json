@@ -598,6 +598,30 @@
             "rating": 5,
             "isArchived": false,
             "complete": true
+        },
+        {
+            "title": "Build your Self-Service Kubernetes Platform with Virtual Clusters | DevOps Tool of the Month (2)",
+            "link": "https://www.youtube.com/watch?v=tt7hope6zU0",
+            "time": 18,
+            "tags": [
+                "Kubernetes",
+                "Devops"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "CI/CD with JetBrains TeamCity | TeamCity Tutorial",
+            "link": "https://www.youtube.com/watch?v=zqi4fDF-S60",
+            "time": 26,
+            "tags": [
+                "CICD",
+                "Devops"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
         }
     ]
 }
