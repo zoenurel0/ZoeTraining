@@ -645,6 +645,177 @@
             "rating": 4,
             "isArchived": false,
             "complete": false
+        },
+        {
+            "title": "Game of Pods",
+            "link": "https://kodekloud.com/p/game-of-pods",
+            "time": 480,
+            "tags": [
+                "Kubernetes"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Rancher Documentation",
+            "link": "https://rancher.com/docs/",
+            "time": 480,
+            "tags": [
+                "Kubernetes",
+                "Rancher",
+                "RKE"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Rancher Online Meetup - December 2020: Open Source Hyperconverged Infrastructure",
+            "link": "https://www.youtube.com/watch?v=EKDtheJxQN4",
+            "time": 69,
+            "tags": [
+                "Kubernetes",
+                "Rancher",
+                "RKE"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Kubernetes Master Class: Monitoring and Alerting with Prometheus & Grafana",
+            "link": "https://www.youtube.com/watch?v=OQojdJL48S4&t=1508s",
+            "time": 70,
+            "tags": [
+                "Prometheus",
+                "Grafana"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Kubernetes Operators Explained",
+            "link": "https://www.youtube.com/watch?v=i9V4oCa5f9I",
+            "time": 10,
+            "tags": [
+                "Kubernetes",
+                "Operator"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E45",
+            "link": "https://www.youtube.com/watch?v=-oYnoi6gy8U&t=12s",
+            "time": 40,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E44",
+            "link": "https://www.youtube.com/watch?v=XDKakofsA04",
+            "time": 42,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E43",
+            "link": "https://www.youtube.com/watch?v=wHxidJbgirk",
+            "time": 35,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E37",
+            "link": "https://www.youtube.com/watch?v=dwkD0vAH4YU",
+            "time": 33,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E35",
+            "link": "https://www.youtube.com/watch?v=Ja7jH01SfE8",
+            "time": 33,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E34",
+            "link": "https://www.youtube.com/watch?v=VQCWBd_arvI",
+            "time": 33,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E33",
+            "link": "https://www.youtube.com/watch?v=kbqmo3vTLbs",
+            "time": 33,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E32",
+            "link": "https://www.youtube.com/watch?v=oBhaJGIbm-s",
+            "time": 33,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E31",
+            "link": "https://www.youtube.com/watch?v=RWfePtCs_C4",
+            "time": 31,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E30",
+            "link": "https://www.youtube.com/watch?v=LCgCEIYKYng",
+            "time": 34,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 4,
+            "isArchived": false,
+            "complete": true
         }
     ]
 }
