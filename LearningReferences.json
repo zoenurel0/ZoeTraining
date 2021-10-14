@@ -816,6 +816,190 @@
             "rating": 4,
             "isArchived": false,
             "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E29",
+            "link": "https://www.youtube.com/watch?v=UqteODPHE0M",
+            "time": 34,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E28",
+            "link": "https://www.youtube.com/watch?v=5H3bzlbRd1g",
+            "time": 34,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E27",
+            "link": "https://www.youtube.com/watch?v=d36D0LqNifQ",
+            "time": 34,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E26",
+            "link": "https://www.youtube.com/watch?v=tZcVeOV1rqc",
+            "time": 34,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - E24",
+            "link": "https://www.youtube.com/watch?v=42AljO9eIUQ",
+            "time": 34,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native KUBECON SPECIAL - S01E23",
+            "link": "https://www.youtube.com/watch?v=7bMkCdA2unw",
+            "time": 53,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "Coffee and Cloud Native - S01E21",
+            "link": "https://www.youtube.com/watch?v=YCPY-9FUJw4",
+            "time": 25,
+            "tags": [
+                "CNCF"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "The Problem With Microservices",
+            "link": "https://www.youtube.com/watch?v=zzMLg3Ys5vI",
+            "time": 25,
+            "tags": [
+                "Microservices"
+            ],
+            "rating": 3,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN MPBGP L2VPN EVPN (L2VNI) Part 1",
+            "link": "https://www.youtube.com/watch?v=Mji2szy-B3Q",
+            "time": 15,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN MPBGP L2VPN EVPN (L2VNI) Part 2",
+            "link": "https://www.youtube.com/watch?v=oWGOkNabgT0",
+            "time": 18,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN MPBGP L2VPN EVPN (L2VNI) Part 3",
+            "link": "https://www.youtube.com/watch?v=fMXGj_Kxn70",
+            "time": 30,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN MPBGP L2VPN EVPN (L2VNI) Part 4",
+            "link": "https://youtu.be/XBv8d1qQTwo",
+            "time": 25,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN MPBGP L2VPN EVPN (L2VNI) Part 5",
+            "link": "https://youtu.be/jPHQ3teNu8k",
+            "time": 25,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN MPBGP L2VPN EVPN (L2VNI) Part 6",
+            "link": "https://youtu.be/_J3s7FKT22g",
+            "time": 25,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN L2VPN EVPN (L3VNI) Part 1",
+            "link": "https://youtu.be/FjtHruaBF1w",
+            "time": 35,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
+        },
+        {
+            "title": "VXLAN L2VPN EVPN (L3VNI) Part 2",
+            "link": "https://youtu.be/FjtHruaBF1w",
+            "time": 60,
+            "tags": [
+                "VXLAN",
+                "EVPN"
+            ],
+            "rating": 5,
+            "isArchived": false,
+            "complete": true
         }
     ]
 }
